@@ -1,0 +1,5 @@
+# my-git
+Useful things
+--------------
+AsciiDocLIVE is a *free online http://www.methods.co.nz/asciidoc/[AsciiDoc^]
+editor*.
